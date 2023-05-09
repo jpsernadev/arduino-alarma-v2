@@ -14,6 +14,7 @@ para detectar el siguiente movimiento.
 - 1 sensor PIR HC-SR501
 - 1 LED RGB (cátodo común)
 - 3 resistencias 220 Ohm
+- 1 pulsador
 - 1 resistencia 10K Ohm
 - 1 zumbador pasivo
 - Cablecitos de conexión
