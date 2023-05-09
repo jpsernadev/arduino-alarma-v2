@@ -21,7 +21,7 @@ para detectar el siguiente movimiento.
 - Protoboard
 
 ## Proveedores de servicios
-- Pushbullet https://www.pushbullet.com
+- Pushbullet: https://www.pushbullet.com
 
-
-
+## Esquema de montaje en protoboard
+alarma_wemosD1mini.png
