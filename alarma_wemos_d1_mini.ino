@@ -20,6 +20,7 @@
 #define REDPIN D5
 
 // Variables Wifi
+
 const char* ssid = "***";
 const char* password = "***";
 
