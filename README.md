@@ -23,8 +23,5 @@ para detectar el siguiente movimiento.
 ## Plataformas
 - Pushbullet: https://www.pushbullet.com
 
-## Esquema electrónico
-![Imagen del esquema electrónico.](alarma_v2_esquematico.png)
-
 ## Esquema de montaje en protoboard
 ![Imagen del esquema de montaje en la protoboard.](alarma_v2_bb.png)
