@@ -12,7 +12,7 @@ evitar permanecer dentro de área e detección del sensor.
 Si el sensor detecta un movimiento enciende el LED en color ROJO, envía un mensaje al teléfono móvil, y se activa el zumbador durante 5 segundos. Luego la alarma regresa a estado activo, lista para detectar el siguiente movimiento.
 
 ## Componentes
-- Placa Wemos D1 R2 o Wemos D1 mini
+- Placa Wemos D1 R2 o Wemos D1 mini (Arduino IDE)
 - 1 sensor PIR HC-SR501
 - 1 LED RGB (cátodo común)
 - 3 resistencias 220 Ohm
