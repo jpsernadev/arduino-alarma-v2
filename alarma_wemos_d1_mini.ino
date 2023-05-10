@@ -5,7 +5,7 @@
  * Autor        : Juan Pedro Serna
  * Versión      : 2.0.0
  * Placa        : Wemos D1 R2
- * Placa IDE    : LOLIN WEMOS D1 R2 & Mini
+ * IDE Arduino  : Placa LOLIN WEMOS D1 R2 & Mini
  *
  */
 
