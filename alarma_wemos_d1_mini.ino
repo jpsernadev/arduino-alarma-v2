@@ -3,7 +3,7 @@
  * Descripción  : Alarma por detección de movimiento con envío en tiempo real
  *                de alerta al teléfono móvil. 
  * Autor        : Juan Pedro Serna
- * Versión      : 1.0.0
+ * Versión      : 2.0.0
  * Placa        : Wemos D1 R2
  * Placa IDE    : LOLIN WEMOS D1 R2 & Mini
  *
