@@ -25,3 +25,6 @@ para detectar el siguiente movimiento.
 
 ## Esquema de montaje en protoboard
 ![Imagen del esquema de montaje en la protoboard.](alarma_v2_bb.png)
+
+## Esquema electrónico
+![Imagen del esquema electrónico.](alarma_v2_esquema.png)
