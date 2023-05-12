@@ -9,7 +9,7 @@ Al iniciarse el LED se activa en color MAGENTA para indicar que el sensor de mov
 
 Cuando el sensor está preparado, el LED pasa a color AZUL para indicar que el sistema está listo para ser activado.
 
-Para activar la alarma se presiona el pulsador y el LED pasa a color VERDE: el usuario dispone de 10 segundos para evitar permanecer dentro de área e detección del sensor. 
+Para activar la alarma se presiona el pulsador y el LED pasa a color VERDE: el usuario dispone de 10 segundos para evitar permanecer dentro del área de detección del sensor. 
 
 Si el sensor detecta un movimiento enciende el LED en color ROJO, envía un mensaje al teléfono móvil (utilizando la plataforma pushbullet.com), y se activa el zumbador durante 5 segundos. Luego la alarma regresa a estado activo, lista para detectar el siguiente movimiento.
 
